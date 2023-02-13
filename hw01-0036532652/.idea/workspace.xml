@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e673f54f-c224-4a72-8c24-b7d5fed246ac" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GJTPlIDaNG1DGQHt3fUQCh1lB0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/nikas/OneDrive/Desktop/FAKS SVE/3.godina/5.semestar/JAVA1/vjezba_za_mi/hw03-0036532652"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.StackDemo">
+    <configuration name="StackDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oprpp1.custom.collections.demo.StackDemo" />
+      <module name="hw01-0036532652" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;2 1 + sqr 2 pow&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayIndexedCollectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw01-0036532652" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oprpp1.custom.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hr.fer.oprpp1.custom.collections" />
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oprpp1.custom.collections.ArrayIndexedCollectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListIndexedCollectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw01-0036532652" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oprpp1.custom.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hr.fer.oprpp1.custom.collections" />
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oprpp1.custom.collections.LinkedListIndexedCollectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StackDemo" />
+      <item itemvalue="JUnit.ArrayIndexedCollectionTest" />
+      <item itemvalue="JUnit.LinkedListIndexedCollectionTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LinkedListIndexedCollectionTest" />
+        <item itemvalue="JUnit.ArrayIndexedCollectionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e673f54f-c224-4a72-8c24-b7d5fed246ac" name="Changes" comment="" />
+      <created>1666105668012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666105668012</updated>
+    </task>
+    <servers />
+  </component>
+</project>
